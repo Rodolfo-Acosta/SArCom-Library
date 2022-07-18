@@ -1,2 +1,2 @@
 # SArCom-Library
-PLCLab Interfase Commutication library.
+PLCLab Communication Interfase Library.
